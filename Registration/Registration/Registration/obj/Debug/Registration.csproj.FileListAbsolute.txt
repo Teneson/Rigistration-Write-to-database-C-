@@ -1,0 +1,16 @@
+C:\Users\Tammy\Documents\Visual Studio 2013\Projects\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\Tammy\Documents\Visual Studio 2013\Projects\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\Tammy\Documents\Visual Studio 2013\Projects\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\Tammy\Documents\Apps\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\Tammy\Documents\Apps\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\Tammy\Documents\Apps\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\obj\Debug\Registration.csprojResolveAssemblyReference.cache
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\obj\Debug\Registration.Form1.resources
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.Cache
+C:\Users\Tammy\Documents\E Apps\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
